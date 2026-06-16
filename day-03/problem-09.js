@@ -11,6 +11,6 @@ const isPalindrome = (str) => {
   }
 };
 
-const result = isPalindrome("hello");
+const result = isPalindrome("hellow");
 
 console.log(`Palindrome is ${result}`);
