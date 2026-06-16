@@ -20,7 +20,10 @@ Welcome to my personal challenge repository! The goal is to build consistency, s
 | **Day 2** | Celsius to Fahrenheit | Programming Hero | JavaScript | Easy | [Solution](./day-02/problem-04.js) |
 | | Check Positive, Negative or Zero | Programming Hero | JavaScript | Easy | [Solution](./day-02/problem-05.js) |
 | | Smart Salary Calculator | Programming Hero | JavaScript | Medium | [Solution](./day-02/problem-06.js) |
-| **Day 3** | *Pending...* | Programming Hero | JavaScript | - | - |
+| **Day 3** | Reverse a String | Programming Hero | JavaScript | Easy | [Solution](./day-03/problem-07.js) |
+| | Count Vowels in a String | Programming Hero | JavaScript | Easy | [Solution](./day-03/problem-08.js) |
+| | Check Palindrome | Programming Hero | JavaScript | Easy | [Solution](./day-03/problem-09.js) |
+| **Day 4** | *Pending...* | Programming Hero | JavaScript | - | - |
 
 ---
 
