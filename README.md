@@ -3,8 +3,8 @@
 Welcome to my personal challenge repository! The goal is to build consistency, sharpen my problem-solving skills in JavaScript, and tackle challenges from the Programming Hero Bootcamp over the next 28 days.
 
 ## 📊 Challenge Progress
-- **Current Day:** Day 2 / 28
-- **Total Problems Solved:** 6 / 84
+- **Current Day:** Day 3 / 28
+- **Total Problems Solved:** 9 / 84
 - **Source:** Programming Hero Bootcamp 🎯
 - **Status:** 🟢 In Progress
 
